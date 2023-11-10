@@ -1,2 +1,2 @@
-# Identity_aware_potrait_gen
+# Identity Aware Potrait Generation using Cycle GAN
 CS726: Course Project
